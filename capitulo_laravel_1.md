@@ -58,9 +58,9 @@ Desde este mismo panel de control, además de poder iniciar o parar los servicio
 
 Para comprobar que el servidor se ha instalado correctamente podemos abrir la siguiente URL en el navegador:
 
-
-    http://localhost
-
+```bash
+http://localhost
+```
 
 Esto nos mostrará la página por defecto de XAMPP, que contiene algunos links para comprobar el estado del software instalado y algunos ejemplos de programación.
 
