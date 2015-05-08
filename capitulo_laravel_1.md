@@ -67,7 +67,7 @@ Esto nos mostrará la página por defecto de XAMPP, que contiene algunos links p
 ![](images/web_laravel/xampp-macosx-start.jpg)
 
 
-> Si ya hubiese un servidor web instalado en el ordenador es posible que entre en conflicto con XAMPP y no permita iniciar el servicio de Apache. En este caso tendremos que detener el otro servidor (`sudo apachectl stop`) para poder utilizar XAMPP.
+>Si ya hubiese un servidor web instalado en el ordenador es posible que entre en conflicto con XAMPP y no permita iniciar el servicio de Apache. En este caso tendremos que detener el otro servidor (`sudo apachectl stop`) para poder utilizar XAMPP.
 
 
 Desde la versión 4 de Laravel, la creación de un proyecto nuevo se realiza con Composer. Veamos entonces que es Composer y que necesitamos para usarlo.
