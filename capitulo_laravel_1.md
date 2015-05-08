@@ -1,6 +1,4 @@
-# Laravel 1 - Introducción
-
-
+# Introducción
 
 
 <!-- ************************************************************************-->
@@ -37,41 +35,6 @@ De manera genérica, los componentes de MVC se podrían definir como sigue:
 
 
 
-
-
-<!-- ********************************** -->
-## Configuración inicial de Laravel
-
-Lo primero que tenemos que hacer después de crear un nuevo proyecto con Laravel es configurar la `key` o clave de la aplicación. Esta clave es una cadena de 32 caracteres que se utiliza para codificar los datos. En caso de no establecerla (revisar el fichero `app/config/app.php`) nuestra aplicación no será segura. Para establecerla tenemos que ejecutar el siguiente comando en la carpeta raíz de nuestra aplicación:
-
-```bash
-php artisan key:generate
-```
-
-Además tenemos que establecer los permisos de algunas carpetas especiales. En general no es necesario añadir permisos de escritura para los archivos de nuestra aplicación, solo tendremos que hacerlo para la carpeta `app/storage`, que es donde Laravel almacena los logs, sesiones, chaché, etc. Para establecer estos permisos simplemente tenemos que ejecutar:
-
-```bash
-sudo chmod -R 777 app/storage/
-```
-
-
-
-
-<!-- ********************************** -->
-## Comprobación de Laravel
-
-Una vez completados todos los pasos ya podemos comprobar nuestra nueva página web con Laravel. Para esto abrimos un navegador y accedemos a la siguiente URL:
-
-```bash
-http://localhost/<nombre-de-tu-proyecto-web>/public/
-
-# En nuestor caso sería:
-http://localhost/miweb/public/
-```
-
-Nos aparecerá una página web por defecto como la siguiente:
-
-![](images/web_laravel/laravel_first_app.png)
 
 
 
