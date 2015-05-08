@@ -1,0 +1,2 @@
+# Funcionamiento básico
+
