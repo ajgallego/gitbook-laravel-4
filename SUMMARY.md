@@ -27,4 +27,5 @@
    * [Paquetes](capitulo_5_paquetes.md)
    * [Rest](capitulo_5_rest.md)
    * [Curl](capitulo_5_curl.md)
+   * Autenticación HTTP básica
 
