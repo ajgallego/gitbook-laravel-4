@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Contenidos](README.md)
 * [Introducción](capitulo_laravel_1.md)
    * [Instalación](introduccion_instalacion.md)
    * [Funcionamiento básico](introduccion_funcionamiento_basico.md)
