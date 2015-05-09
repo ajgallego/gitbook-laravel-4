@@ -6,7 +6,7 @@
    * [Funcionamiento básico](introduccion_funcionamiento_basico.md)
    * [Ejercicios](introduccion_ejercicios.md)
 * [Controladores, filtros y formularios](capitulo_laravel_2.md)
-   * Controladores
+   * [Controladores](controladores.md)
    * Filtros
    * [Formularios](formularios.md)
 * [Base de datos](capitulo_laravel_3.md)
