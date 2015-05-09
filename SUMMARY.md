@@ -20,6 +20,6 @@
    * [Eloquent ORM](base_de_datos_eloquent_orm.md)
    * [Ejercicios](base_de_datos_ejercicios.md)
 * [Datos de entrada y control de usuarios](capitulo_laravel_4.md)
-   * Datos de entrada
+   * [Datos de entrada](capitulo_4_datos_de_entrada.md)
 * [Paquetes, Rest y Curl](capitulo_laravel_5.md)
 
