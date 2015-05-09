@@ -176,7 +176,7 @@ Si por ejemplo queremos aplicarle alguna clase lo podemos añadir como un array 
 
 
 <!-- ************************************************************************-->
-<!--
+<!-- TODO
 # Unión entre formulario y modelo de datos
 
 Laravel incluye una forma muy sencilla de rellenar de datos un formulario que está basado en un modelo, simplemente tendremos que abrir el formulario utilizando el método `Form::model` en lugar de `Form::open`, pasándole como primer parámetro una instancia del modelo. Por ejemplo:
