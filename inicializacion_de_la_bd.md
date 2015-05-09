@@ -1,2 +1,0 @@
-# Inicialización de la BD
-
