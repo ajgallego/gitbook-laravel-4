@@ -84,3 +84,25 @@ Route::group(array('before' => 'auth'), function()
     });
 });
 ```
+
+
+
+<!-- ************************************************************************-->
+## Grupos de rutas con prefijo
+
+Una opción interesante al incluir rutas en el fichero de rutas es poder agruparlas. Ya hemos visto esta opción para aplicar un determinado filtro a un grupo de rutas, pero también podemos utilizarlo para indicar un prefijo. Por ejemplo, si queremos que un grupo de rutas empiece por el prefijo `api/v1` tendríamos que hacer lo siguiente:
+
+```php
+Route::group(array('prefix' => 'api/v1'), function()
+{
+	Route::get('recurso',      'Controller@getRecurso');
+    Route::post('recurso',     'Controller@postRecurso');
+	Route::get('recurso/{id}', 'Controller@putRecurso');
+	//...
+});
+```
+
+De esta forma podemos crear secciones dentro de nuestro fichero de rutas para agrupar, por ejemplo, todas las rutas públicas, todas las de la sección privada de administración, sección privada de usuario y las rutas de las diferentes versiones de la API de nuestro sitio. 
+
+
+
