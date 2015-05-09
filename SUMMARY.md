@@ -7,7 +7,7 @@
    * [Ejercicios](introduccion_ejercicios.md)
 * [Controladores, filtros y formularios](capitulo_laravel_2.md)
    * [Controladores](controladores.md)
-   * Filtros
+   * [Filtros](filtros.md)
    * [Formularios](formularios.md)
    * Redirecciones
 * [Base de datos](capitulo_laravel_3.md)
