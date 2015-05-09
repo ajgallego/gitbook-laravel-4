@@ -49,9 +49,16 @@
         * Actualizar datos
         * Borrar datos
     * Ejercicios
-* Capítulo 4 - Datos de entrada y 
-    * 
-    * 
+* Capítulo 4 - Datos de entrada y Control de Usuarios
+    * Datos de entrada
+    * Ficheros de entrada
+    * Control de usuarios
+        * Tabla de usuarios
+        * Crear un nuevo usuario
+        * Autenticar usuarios
+        * Comprobar autorización
+        * Cerrar sesión
+        * Proteger secciones o rutas de la web
 * Capítulo 5 - Paquetes, Rest y Curl
     * 
     * 
