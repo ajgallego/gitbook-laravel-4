@@ -28,5 +28,5 @@
    * [Rest](capitulo_5_rest.md)
    * [Curl](capitulo_5_curl.md)
    * [Autenticación HTTP básica](capitulo_5_autenticacion_http_basica.md)
-   * Respuestas especiales
+   * [Respuestas especiales](capitulo_5_respuestas_especiales.md)
 
