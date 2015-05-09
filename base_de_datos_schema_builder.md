@@ -1,6 +1,4 @@
-
-<!-- *********************************** -->
-## _Schema Builder_
+# _Schema Builder_
 
 Una vez creada una migración tenemos que completar los métodos `up` y `down` de la misma para indicar la tabla que queremos crear o el campo que queremos modificar. Además, en el método `down` siempre tendremos que añadir la operación inversa, eliminar la tabla que se ha creado en el método `up` o eliminar la columna que se ha añadido. Esto nos permitirá deshacer migraciones dejando la base de datos en el mismo estado en el que se encontraban antes de que se añadieran.
 
@@ -74,7 +72,7 @@ http://laravel.com/docs/4.2/schema#adding-columns
 
 
 <!-- *********************************** -->
-### Añadir índices
+## Añadir índices
 
 _Schema_ soporta los siguientes tipos de índices: 
 
@@ -95,7 +93,7 @@ $table->string('email')->unique();
 
 
 <!-- *********************************** -->
-### Claves ajenas
+## Claves ajenas
 
 Desde _Schema_ también podemos definir claves ajenas entre tablas:
 
