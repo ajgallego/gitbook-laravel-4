@@ -15,7 +15,7 @@
    * [Configuración](base_de_datos_configuracion.md)
    * [Migraciones](base_de_datos_migraciones.md)
    * [Schema Builder](base_de_datos_schema_builder.md)
-   * Inicialización de la BD
+   * [Inicialización de la BD](base_de_datos_inicializacion.md)
 * [Datos de entrada y control de usuarios](capitulo_laravel_4.md)
 * [Paquetes, Rest y Curl](capitulo_laravel_5.md)
 
