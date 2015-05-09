@@ -1,8 +1,6 @@
-# Introducción
+# Contenidos
 
-Dado que una parte importante de la programación Web para móviles es la programación del servidor también abordaremos esta parte con el estudio de uno de los _frameworks_ que más está creciendo en la actualidad: _Laravel_. En esta parte se verán los conceptos básicos de la programación de un servidor en PHP y de la creación de una API tipo RESTful para la comunicación con una aplicación cliente móvil.
-
-* Introducción a Laravel
+* Capítulo 1 - Introducción a Laravel
   * Instalación
     * Instalación de un servidor Web 
     * Instalación y prueba de Laravel
@@ -17,3 +15,43 @@ Dado que una parte importante de la programación Web para móviles es la progra
         * Anidamiento
         * Layouts
   * Ejercicios
+* Capítulo 2 - Controladores, filtros y formularios
+    * Controladores
+        * Introducción
+        * Definir layout desde el controlador
+        * Controladores implícitos
+    * Filtros
+        * Definir filtros
+        * Asignar filtros a una ruta
+        * Grupos de rutas
+    * Formularios
+        * Introducción
+        * CSRF
+        * Etiquetas
+        * Campos de texto, textarea, password y campos ocultos
+        * Checkbox y Radio buttons
+        * Ficheros
+        * Listas desplegables
+        * Botones
+    * Redirecciones
+    * Ejercicios
+* Capítulo 3 - Base de datos
+    * Configuración
+    * Migraciones
+    * Schema Builder
+    * Inicialización de la BD
+    * Constructor de consultas
+        * Transacciones
+    * Eloquent ORM
+        * Introducción
+        * Consultar datos
+        * Insertar datos
+        * Actualizar datos
+        * Borrar datos
+    * Ejercicios
+* Capítulo 4 - Datos de entrada y 
+    * 
+    * 
+* Capítulo 5 - Paquetes, Rest y Curl
+    * 
+    * 
