@@ -1,0 +1,2 @@
+# Autenticación HTTP básica
+
