@@ -1,10 +1,10 @@
 # Summary
 
 * [Contenidos](README.md)
-* [Introducción](capitulo_laravel_1.md)
-   * [Instalación](introduccion_instalacion.md)
-   * [Funcionamiento básico](introduccion_funcionamiento_basico.md)
-   * [Ejercicios](introduccion_ejercicios.md)
+* [Introducción](capitulo_1.md)
+   * [Instalación](capitulo_1_instalacion.md)
+   * [Funcionamiento básico](capitulo_1_funcionamiento_basico.md)
+   * [Ejercicios](capitulo_1_ejercicios.md)
 * [Controladores, filtros y formularios](capitulo_laravel_2.md)
    * [Controladores](controladores.md)
    * [Filtros](filtros.md)
