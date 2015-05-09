@@ -25,5 +25,5 @@
    * [Ejercicios](capitulo_4_ejercicios.md)
 * [Paquetes, Rest y Curl](capitulo_laravel_5.md)
    * [Paquetes](capitulo_5_paquetes.md)
-   * Rest
+   * [Rest](capitulo_5_rest.md)
 
