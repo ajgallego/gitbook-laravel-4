@@ -26,5 +26,5 @@
 * [Paquetes, Rest y Curl](capitulo_laravel_5.md)
    * [Paquetes](capitulo_5_paquetes.md)
    * [Rest](capitulo_5_rest.md)
-   * Curl
+   * [Curl](capitulo_5_curl.md)
 
