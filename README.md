@@ -60,6 +60,7 @@
         * Comprobar autorización
         * Cerrar sesión
         * Proteger secciones o rutas de la web
+    * Ejercicios
 * Capítulo 5 - Paquetes, Rest y Curl
     * Instalación de paquetes adicionales
     * Controladores de recursos RESTful
