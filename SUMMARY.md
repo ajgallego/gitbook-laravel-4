@@ -24,5 +24,5 @@
    * [Control de usuarios](capitulo_4_control_de_usuarios.md)
    * [Ejercicios](capitulo_4_ejercicios.md)
 * [Paquetes, Rest y Curl](capitulo_laravel_5.md)
-   * Paquetes
+   * [Paquetes](capitulo_5_paquetes.md)
 
