@@ -17,6 +17,7 @@
    * [Schema Builder](base_de_datos_schema_builder.md)
    * [Inicialización de la BD](base_de_datos_inicializacion.md)
    * [Constructor de consultas](base_de_datos_query_builder.md)
+   * Eloquent ORM
 * [Datos de entrada y control de usuarios](capitulo_laravel_4.md)
 * [Paquetes, Rest y Curl](capitulo_laravel_5.md)
 
