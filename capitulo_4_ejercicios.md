@@ -1,5 +1,4 @@
 
-<!-- ************************************************************************-->
 # Ejercicios
 
 En los ejercicios de esta sección vamos a completar el proyecto del videoclub terminando el procesamiento de los formularios y añadiendo el sistema de autenticación de usuarios.
