@@ -21,5 +21,6 @@
    * [Ejercicios](base_de_datos_ejercicios.md)
 * [Datos de entrada y control de usuarios](capitulo_laravel_4.md)
    * [Datos de entrada](capitulo_4_datos_de_entrada.md)
+   * Control de usuarios
 * [Paquetes, Rest y Curl](capitulo_laravel_5.md)
 
