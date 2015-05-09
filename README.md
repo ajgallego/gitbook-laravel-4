@@ -24,6 +24,7 @@
         * Definir filtros
         * Asignar filtros a una ruta
         * Grupos de rutas
+        * Rutas con prefijo
     * Formularios
         * Introducción
         * CSRF
@@ -60,5 +61,17 @@
         * Cerrar sesión
         * Proteger secciones o rutas de la web
 * Capítulo 5 - Paquetes, Rest y Curl
-    * 
-    * 
+    * Instalación de paquetes adicionales
+    * Controladores de recursos RESTful
+        * Introducción
+        * Restringir rutas
+        * Rutas adicionales
+        * Recursos anidados
+    * Probar una API con cURL
+        * Plugings o extensiones
+    * Autenticación HTTP básica
+        * Pruebas con cURL
+    * Respuestas especiales
+        * Arrays y JSON
+        * Códigos de estado
+    * Ejercicios
